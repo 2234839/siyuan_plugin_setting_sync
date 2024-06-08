@@ -16,7 +16,7 @@
     "fast-glob": "^3.3.2",
     "minimist": "^1.2.8",
     "rollup-plugin-livereload": "^2.0.5",
-    "siyuan": "0.8.3",
+    "siyuan": "latest",
     "typescript": "^5.4.5",
     "vite": "^4.5.3",
     "vite-plugin-static-copy": "^0.15.0",
