@@ -3,8 +3,7 @@ import "./index.css";
 
 export default class Setting_sync extends Plugin {
   async onload() {
-    //@ts-ignore
-    this.eventBus.on("sync-end", async (...arg) => {
+    this.eventBus.on("sync-end", async () => {
       type layouts = {
         layout: any;
         name: string;
