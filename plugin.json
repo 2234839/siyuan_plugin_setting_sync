@@ -1,8 +1,8 @@
 {
   "name": "siyuan_plugin_setting_sync",
   "author": "崮生",
-  "url": "",
-  "version": "0.0.1",
+  "url": "https://github.com/2234839/siyuan_plugin_setting_sync",
+  "version": "0.0.2",
   "minAppVersion": "2.10.3",
   "backends": [
     "all"
