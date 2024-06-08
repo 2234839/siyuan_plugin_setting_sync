@@ -1,0 +1,30 @@
+{
+  "name": "siyuan_plugin_setting_sync",
+  "author": "崮生",
+  "url": "",
+  "version": "0.0.1",
+  "minAppVersion": "2.10.3",
+  "backends": [
+    "all"
+  ],
+  "frontends": [
+    "all"
+  ],
+  "displayName": {
+    "en_US": "setting sync",
+    "zh_CN": "思源设置同步"
+  },
+  "description": {
+    "en_US": "",
+    "zh_CN": ""
+  },
+  "readme": {
+    "en_US": "README_en.md",
+    "zh_CN": "README.md"
+  },
+  "funding": {
+    "custom": [
+      ""
+    ]
+  }
+}

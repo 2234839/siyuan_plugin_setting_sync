@@ -1,0 +1,28 @@
+{
+  "name": "siyuan_plugin_setting_sync",
+  "version": "0.0.1",
+  "type": "module",
+  "description": "",
+  "repository": "",
+  "homepage": "",
+  "author": "崮生",
+  "license": "GPL-3.0",
+  "scripts": {
+    "make-link": "node --no-warnings ./scripts/make_dev_link.js",
+    "dev": "vite build --watch",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "fast-glob": "^3.3.2",
+    "minimist": "^1.2.8",
+    "rollup-plugin-livereload": "^2.0.5",
+    "siyuan": "0.8.3",
+    "typescript": "^5.4.5",
+    "vite": "^4.5.3",
+    "vite-plugin-static-copy": "^0.15.0",
+    "vite-plugin-zip-pack": "^1.2.3"
+  },
+  "dependencies": {
+    "@llej/js_util": "^1.0.9"
+  }
+}
